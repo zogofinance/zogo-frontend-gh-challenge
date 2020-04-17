@@ -1,4 +1,4 @@
-# A frontend coding challenge using GitHub's api
+# Zogo GitHub frontend challenge
 
 Thanks for accepting our challenge! This challenge should take no longer than 3 hours.
 
