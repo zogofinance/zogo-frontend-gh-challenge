@@ -16,11 +16,9 @@ Your challenge is to code a GitHub profile page. The profile should be able to s
 
 This is an example wireframe.. <b>This is really important: this wireframe is an example of what can be done within the time frame, but it is absolutely not the benchmark. Build what you can in a reasonable amount of time. </b>
 
-<img src="https://i.imgur.com/DyArdBw.png">
+<img width="49%" src="https://i.imgur.com/DyArdBw.png">
 
-and 
-
-<img src="https://i.imgur.com/X7QkpSE.png">
+<img width="49%" src="https://i.imgur.com/X7QkpSE.png">
 
 If you're someone who loves css and beautifying the UI, show us that. Approach this task as your way of displaying your favorite parts of frontend development.
 
