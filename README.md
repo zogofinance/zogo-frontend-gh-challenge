@@ -32,7 +32,7 @@ Your profile page should include the following features:
  
  If you have done all the required features and want to keep going because you just made a cool profile page, try doing the following:
  
-* Have a tab feature (as in the wireframe) that changes the view
+* Have a tab/navigation feature (as in the wireframe) that changes the view
 * Add a way to sort through the list of repos (could be an input field or could be by asc/desc order)
 * Add loading spinners while the information is loading
 
