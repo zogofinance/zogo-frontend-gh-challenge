@@ -32,7 +32,7 @@ Your profile page should include the following features:
  
  If you have done all the required features and want to keep going because you just made a cool profile page, try doing the following:
  
-* Have a tab/navigation feature (as in the wireframe) that changes the view
+* Have a tab/navigation feature that changes the view
 * Add a way to sort through the list of repos (could be an input field or could be by asc/desc order)
 * Add loading spinners while the information is loading
 
@@ -40,7 +40,7 @@ Your profile page should include the following features:
 
 ### What can I use & what are we looking for?
 
-* The only requirement is that you use Angular. You can use any plugins & libraries. 
+* The only requirement is that you use a recent version of Angular. You can use any plugins & libraries. 
 * You can build the app as a desktop or mobile view.. or you can make it responsive.. but that's absolutely up to you!
 * Please include a readme. If we need to run the code locally to see it work, please give us instructions.
 * Please use this exercise as a way to show us what you like about frontend development. Some people live for performance, others for accessibility, or great UI/UX or writing tests. We are aware of the time constraint, if what you love takes time, put comments in.
